@@ -25,3 +25,13 @@ It's also in the
         search     find scripts by searching descriptions
         upgrade    update a script
 
+In essence, `install` is used when first adding a script. Once a script is 
+added, it can be updated at any time with `upgrade`. The `upgrade` command is 
+useful because it knows about configuration files and will never destroy your 
+changes.
+
+## Adding a script to the contrib repository
+
+See the [instructions in the contrib 
+repository](https://github.com/wingowm/contrib#submitting-a-script).
+
