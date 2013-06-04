@@ -3,7 +3,7 @@ scripts in the [contrib](https://github.com/wingowm/contrib) repository.
 Scripts are installed in `$XDG_CONFIG_HOME/wingo/scripts`, which is
 usually at `~/.config/wingo/scripts`.
 
-# Installation
+## Installation
 
 If you have Go installed, `go get` will work:
 
@@ -13,7 +13,7 @@ It's also in the
 [Archlinux User Repository](https://aur.archlinux.org/packages/wingo-contrib-git/).
 
 
-# Usage
+## Usage
 
     wingo-contrib command [arguments]
     
